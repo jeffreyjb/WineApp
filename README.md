@@ -1,2 +1,2 @@
 # WineApp
-App to track wine for Dad!
+App to create and view a wine collection!
